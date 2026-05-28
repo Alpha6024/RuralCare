@@ -1,4 +1,4 @@
-# Hawkathon — Rural Telemedicine Platform
+# Rural Telemedicine Platform
 
 A full-stack telemedicine web app built for rural India, connecting patients with doctors via video consultations, AI-powered symptom checking, and blockchain-verified doctor records.
 
