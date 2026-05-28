@@ -3,6 +3,13 @@
 A full-stack telemedicine web app built for rural India, connecting patients with doctors via video consultations, AI-powered symptom checking, and blockchain-verified doctor records.
 
 ---
+# Some Glimpse
+
+<img width="1357" height="1077" alt="image" src="https://github.com/user-attachments/assets/0e77762d-2c6a-42e8-8dce-efe8b4e89a91" />
+<img width="1143" height="1079" alt="image" src="https://github.com/user-attachments/assets/e5facf15-8ccd-44b7-9a17-6239f52200e8" />
+<img width="1003" height="1079" alt="image" src="https://github.com/user-attachments/assets/9432998c-85d4-4286-be32-14b0f85d0598" />
+
+---
 
 ## Features
 
